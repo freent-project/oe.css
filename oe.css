@@ -1,0 +1,9 @@
+// OpenWindows design theme for HTML
+
+button {
+  padding: 3px;
+}
+
+* {
+  font-family: "Trebuchet MS", system-ui, sans-serif;
+}
